@@ -75,7 +75,7 @@ https://github.com/Alexander437/Convolutions/blob/main/Images/color_weights_inte
 
 
 <div align="center">
-  <img src=""/>
+  <img src="https://github.com/Alexander437/Convolutions/blob/main/Images/cm.png?raw=true"/>
 </div>
 
 
@@ -86,5 +86,5 @@ https://github.com/Alexander437/Convolutions/blob/main/Images/color_weights_inte
 
 
 <div align="center">
-  <img src=""/>
+  <img src="https://github.com/Alexander437/Convolutions/blob/main/Images/paf.png?raw=true"/>
 </div>
