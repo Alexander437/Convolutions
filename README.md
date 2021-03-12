@@ -1,4 +1,4 @@
-# Сверки
+# Свертки
 
 <div align="center">
   <img src="https://disk.yandex.ru/i/lSdWXN93HcPMsQ"/>
