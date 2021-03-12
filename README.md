@@ -1,7 +1,7 @@
 # Свертки
 
 <div align="center">
-  <img src="https://github.com/Alexander437/Convolutions/blob/main/Images/cm.png?raw=true"/>
+  <img src="https://www.machinelearningmastery.ru/img/0-106879-17637.jpeg"/>
 </div>
 
 Свертки являются ключевым элементом всех нейросетевых моделей для компьютерного зрения. 
@@ -27,7 +27,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/Alexander437/Convolutions/blob/main/Images/color_weights_interpolation.png?raw=true"/>
+  <img src=""/>
 </div>
 
 
@@ -42,7 +42,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/Alexander437/Convolutions/blob/main/Images/filters_resnet.png?raw=true"/>
+  <img src=""/>
 </div>
 
 
@@ -52,10 +52,10 @@
 
 
 <div align="center">
-  <img src="https://github.com/Alexander437/Convolutions/blob/main/Images/filters_resnet.png?raw=true"/>
+  <img src="https://github.com/Alexander437/Convolutions/blob/main/Images/color_weights_interpolation.png?raw=true"/>
 </div>
 
-
+https://github.com/Alexander437/Convolutions/blob/main/Images/color_weights_interpolation.png?raw=true
 Если внимательно посмотреть на картинку, становится поняно, что делают свертки:
 они выделяют локальные признаки на изображении, такие как линии и точки разных
 цветов и форм.
@@ -63,7 +63,28 @@
 А вот так выглядит множесво сверок на других слоях. Их нужно воспринимать,
 как массивы с числами от 0 до 1, где величина числа характеризуется яркостью:
 
+
+<div align="center">
+  <img src="https://github.com/Alexander437/Convolutions/blob/main/Images/filters_resnet.png?raw=true"/>
+</div>
+
+
+
 Рассмотрим результат работы нейросети.
 Здесь нейросеть выделяет ключевые точки, характеризующие позу и жесты человека:
 
+
+<div align="center">
+  <img src=""/>
+</div>
+
+
+
 А здесь нейросеть определяет связи между ключевыми точками:
+
+
+
+
+<div align="center">
+  <img src=""/>
+</div>
