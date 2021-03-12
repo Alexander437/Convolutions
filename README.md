@@ -4,6 +4,9 @@
   <img src="https://www.machinelearningmastery.ru/img/0-106879-17637.jpeg"/>
 </div>
 
+
+
+
 Свертки являются ключевым элементом всех нейросетевых моделей для компьютерного зрения. 
 На сегодняшний день именно эти модели применяются в:
 
@@ -55,7 +58,6 @@
   <img src="https://github.com/Alexander437/Convolutions/blob/main/Images/color_weights_interpolation.png?raw=true"/>
 </div>
 
-https://github.com/Alexander437/Convolutions/blob/main/Images/color_weights_interpolation.png?raw=true
 Если внимательно посмотреть на картинку, становится поняно, что делают свертки:
 они выделяют локальные признаки на изображении, такие как линии и точки разных
 цветов и форм.
