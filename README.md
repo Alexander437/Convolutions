@@ -30,7 +30,7 @@
 
 
 <div align="center">
-  <img src=""/>
+  <img src="https://github.com/Alexander437/Convolutions/blob/main/Images/conv_3d.png?raw=true"/>
 </div>
 
 
@@ -45,7 +45,7 @@
 
 
 <div align="center">
-  <img src=""/>
+  <img src="https://github.com/Alexander437/Convolutions/blob/main/Images/conv.png?raw=true"/>
 </div>
 
 
