@@ -26,6 +26,11 @@
 нулевом слое сети, после интерполяции (очень грубо говоря сглаживания):
 
 
+<div align="center">
+  <img src="https://github.com/Alexander437/Convolutions/blob/main/Images/color_weights_interpolation.png?raw=true"/>
+</div>
+
+
 
 Как видно, это просто 3 матрицы размером 7х7 (3 маленьких таблички с числами).
 Причем каждая матрица применяется к своему каналу (а в исходном RGB-изображении
@@ -35,7 +40,21 @@
 большим количеством каналов (их может быть действительно много: 256, 512...)
 Рассмотрим свертку Сх3х3:
 
+
+<div align="center">
+  <img src="https://github.com/Alexander437/Convolutions/blob/main/Images/filters_resnet.png?raw=true"/>
+</div>
+
+
+
 Посмотрим на несколько сверток первого слоя:
+
+
+
+<div align="center">
+  <img src="https://github.com/Alexander437/Convolutions/blob/main/Images/filters_resnet.png?raw=true"/>
+</div>
+
 
 Если внимательно посмотреть на картинку, становится поняно, что делают свертки:
 они выделяют локальные признаки на изображении, такие как линии и точки разных
