@@ -1,7 +1,7 @@
 # Свертки
 
 <div align="center">
-  <img src="https://disk.yandex.ru/i/lSdWXN93HcPMsQ"/>
+  <img src="https://github.com/Alexander437/Convolutions/blob/main/Images/cm.png?raw=true"/>
 </div>
 
 Свертки являются ключевым элементом всех нейросетевых моделей для компьютерного зрения. 
