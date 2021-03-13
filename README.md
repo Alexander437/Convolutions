@@ -67,7 +67,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/Alexander437/Convolutions/blob/main/Images/filters_resnet.png?raw=true"/>
+  <img src="https://github.com/Alexander437/Convolutions/blob/main/Images/conv's_first_layer.png?raw=true"/>
 </div>
 
 
